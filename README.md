@@ -5,7 +5,7 @@ Hi I am tung!!:)
 
 ## Intro
 
-It's a repo to record those reviews I made before.
+It's a repo to record those notes I made before.
 Actually after a shutting down on my computer in May 2022, I lost many important files. So I only upload some files available.（；´д｀）ゞAnd it also reminds me that recording is a good habit.
 
 I made those review for that chasing the deadline and making review is an efficient way for me. But it's not a good example, if you do not want to stay up for days. So that those reviews will cover most of the knowledge we have learned for it is kind of a '' Rocket class''. But don't expect to master this course after only reading these, you and me both know what should we do.
@@ -17,7 +17,8 @@ So if you still have time, please just start getting your hands dirty!🙋‍♀
 I might make some mistakes or did not finish all the work of some course, which means I can not guarantee every word and knowledge I wrote is useful and correct. 
 Please help me and yourself distinguish them! Leave a issue whenever you like!
 
-**If you think it useful, please leave me a star, follow me or some comments!!XD**
+**I hope younger CS students can have a easier way than me, so I shared those notes. 
+If you think it useful, please leave me a star, follow me or some comments!!XD**
 
 ### 🍦CS205 C/C++ Programming
 
