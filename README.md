@@ -14,10 +14,11 @@ So if you still have time, please just start getting your hands dirty!🙋‍♀
 
 
 
-I might make some mistakes or did not finish all the work of some course, which means I can not guarantee every word and knowledge I wrote is useful and correct. 
+I might make some mistakes or did not finish all the work of some courses, which means I can not guarantee every word and knowledge I wrote is useful and correct. 
 Please help me and yourself distinguish them! Leave a issue whenever you like!
 
-**I hope younger CS students can have a easier way than me, so I shared those notes. If you think it useful, please leave me a star, follow me or leave some comments!!XD**
+I had a hard time before. I hope younger CS students can have a easier way than me, so I shared those notes. 
+**If you think it useful, please leave me a star, follow me or leave some comments!!XD**
 
 ### 🍦CS205 C/C++ Programming
 
