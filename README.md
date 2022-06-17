@@ -18,6 +18,7 @@ I might make some mistakes or did not finish all the work of some course, which 
 Please help me and yourself distinguish them! Leave a issue whenever you like!
 
 **I hope younger CS students can have a easier way than me, so I shared those notes. **
+
 **If you think it useful, please leave me a star, follow me or some comments!!XD**
 
 ### 🍦CS205 C/C++ Programming
