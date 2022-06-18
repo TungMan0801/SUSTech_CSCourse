@@ -15,7 +15,7 @@ So if you still have time, please just start getting your hands dirty!🙋‍♀
 
 
 I might make some mistakes or did not finish all the work of some courses, which means I can not guarantee every word and knowledge I wrote is useful and correct. 
-Please help me and yourself distinguish them! Leave a issue whenever you like!
+Please help me and yourself distiguish them! Leave a issue whenever you like!
 
 I had a hard time before. I hope younger CS students can have a easier way than me, so I shared those notes. 
 **If you think it useful, please leave me a star, follow me or leave some comments!!XD**
@@ -24,9 +24,13 @@ I had a hard time before. I hope younger CS students can have a easier way than 
 
 [CPP_REVIEW_PDF](https://github.com/TungMan0801/SUSTech_CSCourse/tree/main/CS205_C%26C%2B%2B)
 
+### 🥐CS207 Digital Design
+[Digital Design_pdf(V1 and V2)](https://github.com/TungMan0801/SUSTech_CSCourse/tree/main/CS207_DigitalDisign)
+
+
 ### 🍨CS208 Algorithm Analysis
 
-Processing 
+[Algorithm_pdf](https://github.com/TungMan0801/SUSTech_CSCourse/tree/main/CS208_Algorithm)
 
 ### 🍧CS209 Java2
 
@@ -44,6 +48,6 @@ Processing
 
 [CN_Review](https://github.com/TungMan0801/SUSTech_CSCourse/tree/main/CS305_ComputerNetwork)
 
-### 🍰CS309 OOAD
+### 🍰CS307 Database
 
-Processing
+[Database_pdf](https://github.com/TungMan0801/SUSTech_CSCourse/tree/main/CS307_Database)
